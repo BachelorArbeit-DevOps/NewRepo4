@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-2022'
 
 variables:
-  solution: 'D:\a\1\s\**\*.sln'
+  # solution: 'D:\a\1\s\**\*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
